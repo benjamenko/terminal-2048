@@ -1,0 +1,4 @@
+termcolor
+tkinter
+readchar
+numpy
